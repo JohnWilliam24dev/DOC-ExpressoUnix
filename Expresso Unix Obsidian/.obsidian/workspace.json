@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "827f90c4a3a933c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "324c3f19fb86d56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e33ae05bf0be99aa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Roadmap.canvas",
+                "viewState": {
+                  "x": 128.01773090171469,
+                  "y": 373.5472375816027,
+                  "zoom": -1.4459564301737284
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap"
+            }
+          },
+          {
+            "id": "79febab36dc7abdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/Cliente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cliente"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "364a5978914c9c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52424ef4c14011e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81efadaf85afeca6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3bc87dec9d6c13fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db7738f08a07c4d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ba5244bf0ef25f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a2a62274e74fea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40bd185ff0e89931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roadmap"
+            }
+          },
+          {
+            "id": "7608499defb25b5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap"
+            }
+          },
+          {
+            "id": "8e896f1fbb85a06f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d2579559d235c2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e33ae05bf0be99aa",
+  "lastOpenFiles": [
+    "Roadmap/Cliente.md",
+    "Roadmap.canvas",
+    "Documentos/Roadmap de Cada Usuário.md",
+    "Roadmap/Gestão.md",
+    "Roadmap/Motorista.md",
+    "Roadmap",
+    "Documentos/Funcionalidades e Requisitos de Desenvolvimento (MVP) ExpressoUnix.md",
+    "Documentos/Visão Geral do Projeto.md",
+    "Login&Auth.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Welcome.md",
+    "Documentos"
+  ]
+}
