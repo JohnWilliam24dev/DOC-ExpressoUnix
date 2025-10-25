@@ -220,3 +220,9 @@
     
 
 - IHC: botão “Gerar relatório” + visualização do progresso e link para download.
+
+
+### Segurança e Auditoria
+- Todas as ações de Gestão e ADM são registradas com timestamp e ID do usuário.
+- Histórico de alterações visível no painel de administração.
+- Funções críticas exigem confirmação e são marcadas como “Auditoráveis”.

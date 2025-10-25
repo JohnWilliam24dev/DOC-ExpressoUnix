@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"25ea2e90ce4764b5","x":-500,"y":-260,"width":250,"height":60,"color":"3","type":"text","text":"GESTÃO"},
+		{"id":"69b653d197efbbe5","x":-85,"y":50,"width":250,"height":60,"type":"text","text":"VIAGENS"},
+		{"id":"8c02d607bd3f7e54","x":-500,"y":-110,"width":250,"height":60,"color":"4","type":"text","text":"MOTORISTA"},
+		{"id":"27822655584016ca","x":-500,"y":50,"width":250,"height":60,"type":"text","text":"VEICULO"},
+		{"id":"11f397055d31cc51","x":-85,"y":-110,"width":250,"height":60,"type":"text","text":"CHECK_LIST"},
+		{"id":"f3a947b1d9189def","x":-85,"y":200,"width":250,"height":60,"type":"text","text":"ASSENTO"},
+		{"id":"f6a5f4dc82b73eda","x":-375,"y":170,"width":250,"height":60,"type":"text","text":"PASSAGEM"},
+		{"id":"42b4e1827e501ab7","x":-700,"y":260,"width":250,"height":60,"color":"5","type":"text","text":"CLIENTE"},
+		{"id":"0d823f01f6f52b41","x":280,"y":50,"width":250,"height":60,"type":"text","text":"PARADAS"},
+		{"id":"e6ed12b1c1c6db92","x":-335,"y":290,"width":250,"height":60,"type":"text","text":"PAGAMENTO"}
+	],
+	"edges":[
+		{"id":"6811dfaec349631a","fromNode":"27822655584016ca","fromSide":"right","toNode":"69b653d197efbbe5","toSide":"left","label":"N;1"},
+		{"id":"047f891e6dcf486a","fromNode":"8c02d607bd3f7e54","fromSide":"right","toNode":"69b653d197efbbe5","toSide":"left","label":"N;1"},
+		{"id":"518c089134987c36","fromNode":"69b653d197efbbe5","fromSide":"top","toNode":"11f397055d31cc51","toSide":"bottom","fromEnd":"arrow","label":"1;1"},
+		{"id":"09dc6faf721b4322","fromNode":"69b653d197efbbe5","fromSide":"bottom","toNode":"f3a947b1d9189def","toSide":"top","label":"N;1"},
+		{"id":"648030a8df99e316","fromNode":"69b653d197efbbe5","fromSide":"right","toNode":"0d823f01f6f52b41","toSide":"left","label":"N;1"}
+	]
+}

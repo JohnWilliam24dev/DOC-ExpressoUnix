@@ -13,6 +13,11 @@
 
 ## Fluxos principais (o que Cliente faz → o que a Plataforma faz / mostra)
 
+
+Cliente acessa o sistema principalmente via link direto enviado pela Gestão (link único).
+A tela de lista de viagens é secundária e usada apenas quando o cliente deseja explorar opções.
+
+
 ### A) Visualizar viagem / decidir comprar
 
 - Cliente vê listagem e detalhes (data/hora, pontos de embarque, preço, assentos restantes).  
@@ -188,6 +193,6 @@
 ## Estados visíveis ao Cliente (mínimos)
 
 - Disponível / Reservado / Pago / Pendente / Ativo / Usado / Cancelado / Reembolso solicitado / Reembolsado
-    
+    Observação: o fluxo de compra foi desenhado para minimizar atrito — o cliente acessa via link, preenche poucos dados e finaliza o pagamento rapidamente, similar à experiência do Sympla.
 
   
