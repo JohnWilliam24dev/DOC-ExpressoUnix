@@ -11,17 +11,14 @@
             "id": "060a737d210f14e7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Banco de Dados.canvas",
-                "viewState": {
-                  "x": -158.66931887263632,
-                  "y": 49.04949486679746,
-                  "zoom": -0.4
-                }
+                "file": "Roadmap/Motorista.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Banco de Dados"
+              "icon": "lucide-file",
+              "title": "Motorista"
             }
           }
         ]
@@ -174,16 +171,16 @@
   },
   "active": "060a737d210f14e7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Banco de Dados.canvas",
-    "Roadmap.canvas",
+    "Roadmap/Cliente.md",
     "Roadmap/Gestão.md",
+    "Banco de Dados.canvas",
+    "Untitled.md",
+    "Roadmap.canvas",
     "Documentos/TABELAS.md",
     "Documentos/Roadmap de Cada Usuário.md",
     "Reuniões/Reunião de Requisitos.md",
     "Reuniões",
     "Documentos/Funcionalidades e Requisitos de Desenvolvimento (MVP) ExpressoUnix.md",
-    "Roadmap/Cliente.md",
     "Documentos/Visão Geral do Projeto.md",
     "Roadmap/Motorista.md",
     "Roadmap",

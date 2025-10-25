@@ -203,26 +203,6 @@
       
     
 
-### I) Relatórios / Reconciliação (visível para Gestão)
-
-- Gestão solicita relatórios (ocupação, vendas, reembolsos).  
-      
-    
-- Plataforma:  
-      
-    
-
-- Gera relatório e mostra progresso; quando pronto exibe download / preview.  
-      
-    
-- Para reconciliação de pagamentos, mostra estado por reserva (Pago / Pendente / Cancelado / Reembolsado).  
-      
-    
-
-- IHC: botão “Gerar relatório” + visualização do progresso e link para download.
 
 
-### Segurança e Auditoria
-- Todas as ações de Gestão e ADM são registradas com timestamp e ID do usuário.
-- Histórico de alterações visível no painel de administração.
-- Funções críticas exigem confirmação e são marcadas como “Auditoráveis”.
+
